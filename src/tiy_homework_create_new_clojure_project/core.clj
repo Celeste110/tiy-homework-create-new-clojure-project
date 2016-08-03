@@ -31,6 +31,4 @@
          (println "10. Increment a number by 1: " increment-by-1)
 
         )
-      )                                                      ;
-
-    (-main)
+      )
